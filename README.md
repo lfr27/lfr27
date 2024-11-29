@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lfr27
-- 👀 I’m interested in programming
+- 👀 I’m interested in programming.
 - 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate.
 - ⚡ Fun fact: The Danish language has no word for "please"
